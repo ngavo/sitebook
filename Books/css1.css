@@ -1,0 +1,27 @@
+/* CSS Document */
+
+.wrapper
+{
+	width: 800px;
+	margin: auto;
+	border: 1px solid #000;
+	background-color: #FFF;
+	height:auto;
+}
+
+.right
+{
+	width: 520px;
+	float:right;
+}
+h2
+{
+	margin-left:10px;
+}
+.content
+{
+	margin-left:10px;
+	margin-right:10px;
+}
+
+

@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.wrapper
+{
+	width:500px;
+	height:300px;
+	border:1px solid #000;
+	margin:auto;
+	text-align:center;
+	margin-top: 200px;
+}
+
+.username
+{
+	padding-top:80px;
+}
+
